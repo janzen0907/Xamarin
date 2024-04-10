@@ -4,7 +4,6 @@ C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\bin\Debug\
 C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\obj\Debug\netstandard2.0\X13MapsGeoCoding.csproj.AssemblyReference.cache
 C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\obj\Debug\netstandard2.0\X13MapsGeoCoding.GeneratedMSBuildEditorConfig.editorconfig
 C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\obj\Debug\netstandard2.0\X13MapsGeoCoding.AssemblyInfoInputs.cache
 C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\obj\Debug\netstandard2.0\X13MapsGeoCoding.AssemblyInfo.cs
 C:\Xamarin\Xamarin\X13MapsGeoCoding\X13MapsGeoCoding\X13MapsGeoCoding\obj\Debug\netstandard2.0\X13MapsGeoCoding.csproj.CoreCompileInputs.cache
