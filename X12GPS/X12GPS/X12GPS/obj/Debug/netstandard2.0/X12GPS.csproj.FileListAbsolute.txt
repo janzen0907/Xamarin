@@ -1,0 +1,14 @@
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\bin\Debug\netstandard2.0\X12GPS.deps.json
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\bin\Debug\netstandard2.0\X12GPS.dll
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\bin\Debug\netstandard2.0\X12GPS.pdb
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\X12GPS.csproj.AssemblyReference.cache
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\X12GPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\X12GPS.AssemblyInfoInputs.cache
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\X12GPS.AssemblyInfo.cs
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\X12GPS.csproj.CoreCompileInputs.cache
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\X12GPS.dll
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\refint\X12GPS.dll
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\X12GPS.pdb
+C:\Xamarin\Xamarin\X12GPS\X12GPS\X12GPS\obj\Debug\netstandard2.0\ref\X12GPS.dll

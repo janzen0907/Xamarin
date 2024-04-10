@@ -1,0 +1,14 @@
+C:\Xamarin\X11Camera\X11Camera\X11Camera\bin\Debug\netstandard2.0\X11Camera.deps.json
+C:\Xamarin\X11Camera\X11Camera\X11Camera\bin\Debug\netstandard2.0\X11Camera.dll
+C:\Xamarin\X11Camera\X11Camera\X11Camera\bin\Debug\netstandard2.0\X11Camera.pdb
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\X11Camera.csproj.AssemblyReference.cache
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\X11Camera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\X11Camera.AssemblyInfoInputs.cache
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\X11Camera.AssemblyInfo.cs
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\X11Camera.csproj.CoreCompileInputs.cache
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\X11Camera.dll
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\refint\X11Camera.dll
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\X11Camera.pdb
+C:\Xamarin\X11Camera\X11Camera\X11Camera\obj\Debug\netstandard2.0\ref\X11Camera.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ux/jUK2m/zZtoJIs1KZIvmpb+dEE1MkJo6wzSWraWtjfsP3WVJiY7/Sv3rphZ4TJRBvtlT8WxOr5HFsIsFzgBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dieds\\OneDrive - Saskatchewan Polytechnic\\COSC295 - Mobile\\Xamarin\\X07ListView\\X07ListView\\X07ListView\\X07ListView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dieds\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dieds\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dieds\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dieds\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\dieds\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

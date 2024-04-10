@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "John_Janzen_COSC295_A2.Android", "John_Janzen_COSC295_A2\John_Janzen_COSC295_A2.Android\John_Janzen_COSC295_A2.Android.csproj", "{2A88F0BB-C822-421A-814C-53A53F06EF3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "John_Janzen_COSC295_A2", "John_Janzen_COSC295_A2\John_Janzen_COSC295_A2\John_Janzen_COSC295_A2.csproj", "{36211E61-2220-4BA3-9B7B-7BD0BE0BA36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A88F0BB-C822-421A-814C-53A53F06EF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A88F0BB-C822-421A-814C-53A53F06EF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A88F0BB-C822-421A-814C-53A53F06EF3A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2A88F0BB-C822-421A-814C-53A53F06EF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A88F0BB-C822-421A-814C-53A53F06EF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A88F0BB-C822-421A-814C-53A53F06EF3A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{36211E61-2220-4BA3-9B7B-7BD0BE0BA36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36211E61-2220-4BA3-9B7B-7BD0BE0BA36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36211E61-2220-4BA3-9B7B-7BD0BE0BA36C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{36211E61-2220-4BA3-9B7B-7BD0BE0BA36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36211E61-2220-4BA3-9B7B-7BD0BE0BA36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36211E61-2220-4BA3-9B7B-7BD0BE0BA36C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D755F972-9083-4C68-84D1-38ADB000F404}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X03 - Simple Calculator.Android", "X03 - Simple Calculator\X03 - Simple Calculator.Android\X03 - Simple Calculator.Android.csproj", "{7BA798FA-9253-44E3-8AD7-D2ED76026708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X03 - Simple Calculator", "X03 - Simple Calculator\X03 - Simple Calculator\X03 - Simple Calculator.csproj", "{8400A054-9154-4465-94D6-5BD958C8D171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA798FA-9253-44E3-8AD7-D2ED76026708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA798FA-9253-44E3-8AD7-D2ED76026708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA798FA-9253-44E3-8AD7-D2ED76026708}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7BA798FA-9253-44E3-8AD7-D2ED76026708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA798FA-9253-44E3-8AD7-D2ED76026708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA798FA-9253-44E3-8AD7-D2ED76026708}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8400A054-9154-4465-94D6-5BD958C8D171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8400A054-9154-4465-94D6-5BD958C8D171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8400A054-9154-4465-94D6-5BD958C8D171}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8400A054-9154-4465-94D6-5BD958C8D171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8400A054-9154-4465-94D6-5BD958C8D171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8400A054-9154-4465-94D6-5BD958C8D171}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3FDABA-9B67-40A1-A938-A9566A7EFB36}
+	EndGlobalSection
+EndGlobal

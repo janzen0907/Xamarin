@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="X06ExampleNavigation.MyPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="showName" Text="You are: "/>
+            <Button x:Name="btnCloseModal" Text="Close Modal"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

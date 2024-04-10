@@ -1,0 +1,17 @@
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\bin\Debug\netstandard2.0\X06ExampleNavigation.deps.json
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\bin\Debug\netstandard2.0\X06ExampleNavigation.dll
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\bin\Debug\netstandard2.0\X06ExampleNavigation.pdb
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\X06ExampleNavigation.csproj.AssemblyReference.cache
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\X06ExampleNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\X06ExampleNavigation.AssemblyInfoInputs.cache
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\X06ExampleNavigation.AssemblyInfo.cs
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\X06ExampleNavigation.csproj.CoreCompileInputs.cache
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\X06ExampleNavigation.dll
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\refint\X06ExampleNavigation.dll
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\X06ExampleNavigation.pdb
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\ref\X06ExampleNavigation.dll
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\MyPage.xaml.g.cs
+C:\Xamarin\X06ExampleNavigation\X06ExampleNavigation\X06ExampleNavigation\obj\Debug\netstandard2.0\MyPersonPage.xaml.g.cs

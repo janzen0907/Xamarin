@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="X06ExampleNavigation.MainPage">
+
+    <StackLayout VerticalOptions="Center">
+        <Button x:Name="btnJane" Text="Jane"/>
+        <Button x:Name="btnJoe" Text="Joe"/>
+        <Button x:Name="btnBob" Text="Bob"/>
+        <Button x:Name="btnJane2" Text="Jane2"/>
+        <Button x:Name="btnJoe2" Text="Joe2"/>
+        <Button x:Name="btnBob2" Text="Bob2"/>
+        <Button x:Name="btnChanges" Text="Read Changes"/>
+    </StackLayout>
+
+</ContentPage>

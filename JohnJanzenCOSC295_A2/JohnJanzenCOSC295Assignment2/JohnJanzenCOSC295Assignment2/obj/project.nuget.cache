@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "7q04n/bnwdb8f4rYPiXG2TkeCiHuiEyAcLOp2fWM7zOCpIdZGh/0eZHLZlimuFrAA9fIst5k8i+zpQulKv0IIw==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\Xamarin\\JohnJanzenCOSC295_A2\\JohnJanzenCOSC295Assignment2\\JohnJanzenCOSC295Assignment2\\JohnJanzenCOSC295Assignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janzen0907\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\sqlite-net-pcl\\1.4.118\\sqlite-net-pcl.1.4.118.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.5\\sqlitepclraw.bundle_green.1.1.5.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\sqlitepclraw.core\\1.1.5\\sqlitepclraw.core.1.1.5.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

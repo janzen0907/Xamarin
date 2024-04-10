@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4SFo6cY/8/MI/TjZV0ldkLICzuA8Rg3SCsIXuXxd9tSjjuc2Rn84+mzByp7ZhzBi8pCL4t9kQAa8J2fd+PEpg==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\Xamarin\\X13MapsGeoCoding\\X13MapsGeoCoding\\X13MapsGeoCoding\\X13MapsGeoCoding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janzen0907\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\janzen0907\\.nuget\\packages\\xamarin.forms.maps\\4.7.0.1260\\xamarin.forms.maps.4.7.0.1260.nupkg.sha512"
+  ],
+  "logs": []
+}
